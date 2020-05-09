@@ -1,0 +1,14 @@
+* {
+  font-family: sans-serif;
+  padding: 10px;
+}
+textarea {
+  padding: 8px;
+  border: 1px solid #ddd;
+  width: 382px;
+  min-height: 100px;
+}
+
+input {
+    width: 176px;
+}

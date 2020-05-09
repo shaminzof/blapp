@@ -1,0 +1,22 @@
+.card {
+  box-shadow: 0 0 5px rgb(17, 16, 16);
+  height: 500px;
+  position: relative;
+  width: 400px;
+  max-width: 100%;
+  margin: 50px;
+  
+}
+
+.card-header {
+  background-image: url();
+  overflow: hidden;
+  height: 400px;
+}
+
+.text-p {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: blueviolet;
+}
+
